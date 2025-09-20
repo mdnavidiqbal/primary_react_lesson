@@ -1,0 +1,57 @@
+[
+  {
+    "id": "WB001",
+    "brand": "HydroFlask",
+    "capacity_ml": 1000,
+    "material": "stainless_steel",
+    "insulated": true,
+    "color": "frost",
+    "features": ["double_wall_vacuum", "wide_mouth", "leak_proof_lid"],
+    "price_usd": 39.95,
+    "in_stock": true
+  },
+  {
+    "id": "WB002",
+    "brand": "Nalgene",
+    "capacity_ml": 1500,
+    "material": "plastic",
+    "insulated": false,
+    "color": "blue",
+    "features": ["bpa_free", "wide_mouth", "graduated_measurements"],
+    "price_usd": 12.99,
+    "in_stock": true
+  },
+  {
+    "id": "WB003",
+    "brand": "CamelBak",
+    "capacity_ml": 750,
+    "material": "plastic",
+    "insulated": false,
+    "color": "black",
+    "features": ["bite_valve", "straw", "leak_proof", "carry_handle"],
+    "price_usd": 24.50,
+    "in_stock": false
+  },
+  {
+    "id": "WB004",
+    "brand": "Yeti",
+    "capacity_ml": 2000,
+    "material": "stainless_steel",
+    "insulated": true,
+    "color": "navy",
+    "features": ["double_wall_insulation", "chug_cap", "dishwasher_safe"],
+    "price_usd": 49.99,
+    "in_stock": true
+  },
+  {
+    "id": "WB005",
+    "brand": "Contigo",
+    "capacity_ml": 600,
+    "material": "glass",
+    "insulated": false,
+    "color": "clear",
+    "features": ["silicone_sleeve", "flip_top", "leak_proof", "eco_friendly"],
+    "price_usd": 18.75,
+    "in_stock": true
+  }
+]
